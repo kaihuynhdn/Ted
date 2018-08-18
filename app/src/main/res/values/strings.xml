@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ted</string>
+    <string name="talk_description">
+       AI is massively transforming our world, but there\'s one thing it cannot do: love.
+        In a visionary talk, computer scientist Kai-Fu Lee details how the US and China are
+        driving a deep learning revolution — and shares a blueprint for how humans can thrive
+        in the age of AI by harnessing compassion and creativity. \"AI is serendipity,\" Lee says.
+        \"It is here to liberate us from routine jobs, and it is here to remind us what it is that makes us human.\"
+    </string>
+
+    <string name="speaker_description">
+        At Sinovation Ventures, Kai-Fu Lee invests in the next generation of Chinese high-tech companies.
+    </string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_talk_description" />
+
+</resources>

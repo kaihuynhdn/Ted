@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TalkTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">#df0000</item>
+        <item name="colorAccent">@color/opaque_red</item>
+        <item name="titleTextColor">@color/opaque_red</item>
+        <item name="subtitleTextColor">@color/opaque_red</item>
+    </style>
+</resources>

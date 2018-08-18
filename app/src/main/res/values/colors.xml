@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="opaque_red">#f00</color>
+    <color name="translucent_red">#80ff0000</color>
+    <color name="black">#000</color>
+    <color name="darkgray">#333</color>
+    <color name="lightgray">#CCC</color>
+    <color name="white">#FFF</color>
+
+    <color name="view_background">#aeaeae</color>
+
+    <color name="pinned_header_background">#ff202020</color>
+    <color name="tab_layout_text">#676767</color>
+</resources>

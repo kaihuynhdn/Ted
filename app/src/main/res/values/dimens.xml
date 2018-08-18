@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tab_indicator_height">0dp</dimen>
+    <dimen name="activity_padding">16dp</dimen>
+    <dimen name="fab_margin_right">16dp</dimen>
+    <dimen name="dimen_0">0dp</dimen>
+    <dimen name="fab_margin_bottom">10dp</dimen>
+    <dimen name="view_margin_horizontal">10dp</dimen>
+    <dimen name="newest_fragment_padding">10dp</dimen>
+    <dimen name="talks_item_height">210dp</dimen>
+    <dimen name="card_view_elevation_talk">5dp</dimen>
+    <dimen name="fab_right_margin_talk">16dp</dimen>
+    <dimen name="img_btn_margin_left">16dp</dimen>
+    <dimen name="tv_talk_description_margin_right">15dp</dimen>
+    <dimen name="tv_talk_description_margin_top">10dp</dimen>
+    <dimen name="radius_corner">5dp</dimen>
+</resources>
